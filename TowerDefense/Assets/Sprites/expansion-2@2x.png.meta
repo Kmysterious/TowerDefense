@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: e73138099bc35e74da8fb7791ba5f320
+timeCreated: 1528209558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: expansion-2@2x_0
+    21300002: expansion-2@2x_1
+    21300004: expansion-2@2x_2
+    21300006: expansion-2@2x_3
+    21300008: expansion-2@2x_4
+    21300010: expansion-2@2x_5
+    21300012: expansion-2@2x_6
+    21300014: expansion-2@2x_7
+    21300016: expansion-2@2x_8
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: expansion-2@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 435
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 135.5}
+        - {x: -143.5, y: 91.5}
+        - {x: -217.5, y: -22.5}
+        - {x: -217.5, y: -74.5}
+        - {x: -190.5, y: -90.5}
+        - {x: -44.5, y: -135.5}
+        - {x: 66.5, y: -135.5}
+        - {x: 217.5, y: -58.5}
+        - {x: 217.5, y: 101.5}
+        - {x: 103.5, y: 135.5}
+      - - {x: -189.5, y: -49.5}
+        - {x: -150.5, y: -15.5}
+        - {x: -133.5, y: -52.5}
+        - {x: -128.5, y: -60.5}
+      - - {x: 129.5, y: 15.5}
+        - {x: 130.5, y: 28.5}
+        - {x: 137.5, y: 0.5}
+        - {x: 138.5, y: -1.5}
+        - {x: 129.5, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 544
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: 136}
+        - {x: -54.5, y: 136}
+        - {x: -135.5, y: 83}
+        - {x: -135.5, y: -76}
+        - {x: -66.5, y: -136}
+        - {x: 94.5, y: -136}
+        - {x: 135.5, y: -74}
+        - {x: 135.5, y: 86}
+        - {x: 81.5, y: 133}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 545
+        width: 271
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 135.5}
+        - {x: -92.5, y: 122.5}
+        - {x: -135.5, y: 100.5}
+        - {x: -135.5, y: -94.5}
+        - {x: -76.5, y: -135.5}
+        - {x: 98.5, y: -135.5}
+        - {x: 135.5, y: -76.5}
+        - {x: 135.5, y: 72.5}
+        - {x: 62.5, y: 135.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -377, y: 272}
+        - {x: -408, y: 225}
+        - {x: -408, y: -226}
+        - {x: -378, y: -272}
+        - {x: 394, y: -272}
+        - {x: 408, y: -241}
+        - {x: 408, y: 260}
+        - {x: 363, y: 272}
+      - - {x: -235, y: 1}
+        - {x: -253, y: 0}
+        - {x: -261, y: -1}
+        - {x: -259, y: -2}
+        - {x: -256, y: 1}
+        - {x: -250, y: 0}
+        - {x: -224, y: 5}
+        - {x: -179, y: 32}
+        - {x: -154, y: 62}
+        - {x: -52, y: 1}
+        - {x: -23, y: 0}
+        - {x: -19, y: 1}
+        - {x: -16, y: -2}
+        - {x: -3, y: -1}
+        - {x: -17, y: 0}
+        - {x: -18, y: -1}
+        - {x: -33, y: 0}
+        - {x: -73, y: -17}
+        - {x: -109, y: -46}
+      - - {x: 135, y: -117}
+        - {x: 136, y: -112}
+        - {x: 136, y: -85}
+        - {x: 92, y: -21}
+        - {x: 37, y: 0}
+        - {x: 17, y: -1}
+        - {x: 16, y: 0}
+        - {x: 3, y: -1}
+        - {x: 16, y: -2}
+        - {x: 19, y: 1}
+        - {x: 23, y: 1}
+        - {x: 28, y: 2}
+        - {x: 32, y: 3}
+        - {x: 87, y: 3}
+        - {x: 149, y: -61}
+        - {x: 137, y: -104}
+        - {x: 136, y: -114}
+        - {x: 137, y: -119}
+        - {x: 137, y: -118}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 271
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: expansion-2@2x_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
